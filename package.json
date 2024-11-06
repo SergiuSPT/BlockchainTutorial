@@ -1,0 +1,14 @@
+{
+  "name": "blockchainjs",
+  "version": "1.0.0",
+  "description": "blockchain tutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serj",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
